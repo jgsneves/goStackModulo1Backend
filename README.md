@@ -7,7 +7,7 @@
 Este repositório tem o objetivo de consolidar o conhecimento adquirido na aula "Back-end com NodeJS" do Módulo 01 do bootcamp GoStack da Rocketseat
 
 
-## **:memo: O que é este repo?
+## :memo: O que é este repo?
 
 Basicamente é uma API escrita em NodeJS em que exploramos as principais requisições HTTP (GET, POST, PUT, DELETE) manipulando JSON que são projetos com a seguinte estrutura:
 
@@ -34,13 +34,13 @@ function validateProjectId(request, response, next) {
 }
 ```
 
-## **:computer: Tecnologias empregadas:
+## :computer: Tecnologias empregadas:
 - [Express](https://expressjs.com/);
 - [Uuidv4 - gerador de hash aleatória](https://www.npmjs.com/package/uuidv4);
 - [Node] (https://nodejs.org/en/);
 - [Nodemon] (https://nodemon.io/);
 
-## Competências adquiridas:
+## :nerd_face: Competências adquiridas:
 - Conceitos API Rest: verbos HTTP (GET, POST, PUT, DELETE);
 - HTTP Codes (100 - informational; 200 - sucess; 300 - redirect; 400 - client error; 500 - server error);
 - Tipos de parâmetro:
