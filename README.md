@@ -1,6 +1,6 @@
-<h1 align=center>
+<div align=center>
 <img src="https://raw.githubusercontent.com/jgsneves/goStackModulo1Backend/master/gostack_rocketseat.png" />
-</h1>
+</div>
 
 # Back-end com NodeJS
 
