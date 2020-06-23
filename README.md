@@ -37,8 +37,8 @@ function validateProjectId(request, response, next) {
 ## :computer: Tecnologias empregadas:
 - [Express](https://expressjs.com/);
 - [Uuidv4 - gerador de hash aleatória](https://www.npmjs.com/package/uuidv4);
-- [Node] (https://nodejs.org/en/);
-- [Nodemon] (https://nodemon.io/);
+- [Node](https://nodejs.org/en/);
+- [Nodemon](https://nodemon.io/);
 
 ## :nerd_face: Competências adquiridas:
 - Conceitos API Rest: verbos HTTP (GET, POST, PUT, DELETE);
