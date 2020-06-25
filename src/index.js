@@ -1,8 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const {uuid, isUuid} = require('uuidv4');
 
 const app = express();
 
+app.use(cors()); //lib para proteger acesso ao backend.
 app.use(express.json()); //o express vai interpretar json
 
 const projects = [];
